@@ -7,7 +7,8 @@
 # Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/50/000000/javascript.png"><img height="50" src="https://img.icons8.com/color/50/000000/javascript.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/50/000000/nodejs.png"><img height="50" src="https://img.icons8.com/color/50/000000/nodejs.png" style="max-width:100%;"></a>
-
+<a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/50/000000/python.png"><img height="50" src="https://img.icons8.com/color/50/000000/python.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/50/000000/mongodb.png"><img height="50" src="https://img.icons8.com/color/50/000000/mongodb.png" style="max-width:100%;"></a>
 
 # Stats:
 <table>
