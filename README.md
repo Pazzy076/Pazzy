@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Information:
-- 🧑 I'm 14 y/o
+- <img src="https://www.flaticon.com/free-icon/web-development_1688451?term=developer&page=1&position=38&page=1&position=38&related_id=1688451&origin=search" width="25px"> I'm 14 y/o
 - 💬 Discord: Pazzy .#0076
 
 # Languages and Tools:
