@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Information:
-- I'm 14 y/o
+- <a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/aJPLw-4jUCR3/man-technologyst"><img height="24" src="https://icons8.com/icon/aJPLw-4jUCR3/man-technologyst" style="max-width:100%;"></a> I'm 14 y/o
 - Discord: Pazzy .#0076
 
 # Languages and Tools:
