@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Information:
-- 🧑 I'm 14 y/o
+- 🧑 I'm 15 y/o
 - 📨 Discord: Pazzy .#0076
 
 # Languages and Tools:
